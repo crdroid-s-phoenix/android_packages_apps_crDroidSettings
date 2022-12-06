@@ -35,6 +35,14 @@
         android:summary="@string/charging_animation_summary"
         android:defaultValue="true" />
 
+    <!-- Android P animation style -->
+    <com.crdroid.settings.preferences.GlobalSettingSwitchPreference
+        android:key="pie_animation_style"
+        android:icon="@drawable/ic_television_classic"
+        android:title="@string/pie_animation_style_title"
+        android:summary="@string/pie_animation_style_summary"
+        android:defaultValue="false" />
+
     <!-- Display Cutout -->
     <Preference
         android:key="display_cutout_force_fullscreen_settings"

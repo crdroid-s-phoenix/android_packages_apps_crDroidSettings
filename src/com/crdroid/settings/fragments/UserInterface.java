@@ -83,6 +83,8 @@ public class UserInterface extends SettingsPreferenceFragment {
         ContentResolver resolver = mContext.getContentResolver();
         Settings.System.putIntForUser(resolver,
                 Settings.System.CHARGING_ANIMATION, 1, UserHandle.USER_CURRENT);
+        Settings.Global.putInt(resolver,
+                Settings.Global.PIE_ANIMATION_STYLE, 0);
         DozeSettings.reset(mContext);
         MonetSettings.reset(mContext);
         SmartPixels.reset(mContext);
