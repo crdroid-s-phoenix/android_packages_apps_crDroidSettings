@@ -942,4 +942,8 @@
     <string name="adaptive_playback_summary">静音时暂停媒体，并在超时范围内增加音量以恢复媒体</string>
     <string name="adaptive_playback_intro_text">音量静音时自动暂停媒体，并在设定时间内恢复音量时自动恢复</string>
     <string name="adaptive_playback_timeout_title">播放超时</string>
+
+    <!-- Android P animation style -->
+    <string name="pie_animation_style_title">Android P 动画风格</string>
+    <string name="pie_animation_style_summary">启用 Android P \"默认\" 动画</string>
 </resources>
