@@ -1103,4 +1103,7 @@
     <!-- Android P animation style -->
     <string name="pie_animation_style_title">Android P animation style</string>
     <string name="pie_animation_style_summary">Enable Android P \"Default\" animations</string>
+
+    <!-- QS Header -->
+    <string name="qs_header_image_title">Header image</string>
 </resources>
