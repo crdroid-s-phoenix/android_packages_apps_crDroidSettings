@@ -318,6 +318,8 @@
     <string name="theme_customization_wifi_icon_summary">设置自定义 WiFi 图标样式</string>
     <string name="theme_customization_navbar_title">导航栏样式</string>
     <string name="theme_customization_navbar_summary">设置自定义导航栏样式</string>
+    <string name="theme_customization_brightness_slider_title">亮度滑块样式</string>
+    <string name="theme_customization_brightness_slider_summary">设置自定义亮度滑块样式</string>
     <!-- Refresh rate -->
     <string name="default_refresh_rate_title_custom">默认刷新率</string>
     <string name="peak_refresh_rate_title_custom">最高刷新率</string>
